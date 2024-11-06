@@ -1,1 +1,2 @@
 # Udemy_Project
+After taking a career break, I reignited my passion for web design by creating a food website using HTML, CSS, and Flexbox. This project has not only enhanced my technical skills but also boosted my confidence in building visually appealing and responsive layouts. I am excited to continue learning and growing in web development and look forward to exploring new opportunities in this field.
